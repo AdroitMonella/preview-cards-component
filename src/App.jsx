@@ -48,7 +48,7 @@ function App() {
   
   <div className='text-center text-xs font-lexend mt-5'>
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" className='text-blue' target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#" className='text-blue' >Mona Granerud</a>.
+    Coded by <a href="https://github.com/AdroitMonella" className='text-blue' >AdroitMonella</a>.
   </div>
     </div>
   )
