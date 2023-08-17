@@ -51,7 +51,7 @@ In this project, I experimented with tailwindcss and explored how to incorporate
 Through this process, I discovered the extent to which tailwind can be customized, 
 as well as the challenges of seamlessly blending default styles with personal modifications. 
 A clear example of this can be found in the tailwind.config file: 
-
+```
 theme: {
     extend: {},
     fontFamily: {
@@ -67,7 +67,7 @@ theme: {
       'grey': '#f2f2f2'
     }
   }
-
+```
 Here I have overwritten Tailwinds default colors like blue and white with my own colors.
 
 ### Continued development
